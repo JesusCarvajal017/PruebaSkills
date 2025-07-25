@@ -135,5 +135,4 @@
 ../*.svclog
 ../*.scc
 
-# c#
-../* text=auto
+
